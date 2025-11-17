@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870065147530",
+    "project_id": "luisacuna-3b32e",
+    "storage_bucket": "luisacuna-3b32e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870065147530:android:acd493061a0349a1aa6773",
+        "android_client_info": {
+          "package_name": "cl.certamen.actividad_fisica_inteligente"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9EFYjXSA4hZVFD7cMzv1TY2MeWbORev4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
